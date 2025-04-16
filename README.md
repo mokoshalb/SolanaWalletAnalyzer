@@ -15,7 +15,7 @@ A powerful tool for analyzing Solana wallet performance, calculating PnL, win ra
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mokoshalb/SolanaWalletAnalyzer.git
+git clone https://github.com/OkoyaUsman/SolanaWalletAnalyzer.git
 cd SolanaWalletAnalyzer
 ```
 
